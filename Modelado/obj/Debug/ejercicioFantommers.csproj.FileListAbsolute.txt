@@ -1,0 +1,12 @@
+C:\Users\54934\source\repos\Modelado\Modelado\obj\Debug\ejercicioFantommers.csprojAssemblyReference.cache
+C:\Users\54934\source\repos\Modelado\Modelado\obj\Debug\ejercicioFantommers.csproj.CoreCompileInputs.cache
+C:\Users\54934\source\repos\Modelado\Modelado\bin\Debug\Modelado.exe.config
+C:\Users\54934\source\repos\Modelado\Modelado\bin\Debug\Modelado.exe
+C:\Users\54934\source\repos\Modelado\Modelado\bin\Debug\Modelado.pdb
+C:\Users\54934\source\repos\Modelado\Modelado\bin\Debug\EntityFramework.dll
+C:\Users\54934\source\repos\Modelado\Modelado\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\54934\source\repos\Modelado\Modelado\bin\Debug\EntityFramework.xml
+C:\Users\54934\source\repos\Modelado\Modelado\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\54934\source\repos\Modelado\Modelado\obj\Debug\ejercicioFantommers.csproj.CopyComplete
+C:\Users\54934\source\repos\Modelado\Modelado\obj\Debug\Modelado.exe
+C:\Users\54934\source\repos\Modelado\Modelado\obj\Debug\Modelado.pdb

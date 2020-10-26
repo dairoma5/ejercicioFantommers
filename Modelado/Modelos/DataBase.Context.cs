@@ -25,6 +25,6 @@ namespace Modelado.Modelos
             throw new UnintentionalCodeFirstException();
         }
     
-        public virtual DbSet<Persona> PersonaSet { get; set; }
+        public virtual DbSet<ejercicioFantommers.Modelos.Persona> PersonaSet { get; set; }
     }
 }
